@@ -336,8 +336,6 @@ body {
   color: #ffffff;
   background-image: url("../img/index-hero-background.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  object-fit: contain;
 }
 
 .main-hero-image {
@@ -1170,7 +1168,7 @@ body {
 .footer-logo-link {
   width: 115px;
   height: 33px;
-  margin-top: 48.5px;
+  margin-top: 45px;
 }
 
 .footer-logo-icon {
